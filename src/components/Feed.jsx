@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { Box, Stack, Typography, Typograppy } from '@mui/material';
+import { Box, Stack, Typography } from '@mui/material';
 import { SideBar, Videos } from './';
 import { fetchFromAPI } from '../utils/fetchFromAPI';
 
