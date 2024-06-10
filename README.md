@@ -16,7 +16,7 @@ YouTube Minimal uses a youtube API to provide users with a new minimilistic plat
 - React
 
 
-UI Deployment: https://effortless-malabi-6ec591.netlify.app
+UI Deployment: youtubeminimal.netlify.app
 Continuous Deployment Platform: https://app.netlify.com
 
 
