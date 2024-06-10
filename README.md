@@ -6,8 +6,8 @@ YTube uses a youtube API to provide users with a new minimilistic platform to mi
 
 ## Repository Links
 
-API : https://rapidapi.com/ytdlfree/api/youtube-v31/playground/apiendpoint_568ae1b5-7353-441d-8753-cfa5337ade8f
-UI : https://github.com/agent-kdubb/YTube
+- API : https://rapidapi.com/ytdlfree/api/youtube-v31/playground/apiendpoint_568ae1b5-7353-441d-8753-cfa5337ade8f
+- UI : https://github.com/agent-kdubb/YTube
 
 - HTML
 - CSS
