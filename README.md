@@ -11,7 +11,7 @@ YTube uses a youtube API to provide users with a new minimilistic platform to mi
 
 **Technologies**
 
-- HTML
+- JSX
 - CSS
 - JavaScript
 - React
