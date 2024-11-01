@@ -2,7 +2,7 @@
 
 ## Project Description
 
-YouTube Minimal uses a youtube API to provide users with a new minimilistic platform to minimize distractions. Users can perform actions in thois application such as, filtering videos by category, searching videos by name, or filter videos by creator. The application features a main dashboard page, video card view, and creator page view.
+YouTube Minimal uses a YouTube API to provide users with a new minimalistic platform to minimize distractions. Users can perform actions in this application, such as filtering videos by category, searching videos by name, or filtering videos by creator. The application features a main dashboard page, video card view, and creator page view.
 
 ## Repository Links
 
