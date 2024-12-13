@@ -1,6 +1,9 @@
 # YouTube Minimal
 
 A distraction-free video platform leveraging the YouTube API for seamless browsing.
+![1719370784518](https://github.com/user-attachments/assets/86aa0cc8-6dab-4795-a201-445a6b77c6e2)
+
+
 
 ![React Badge](https://img.shields.io/badge/React-18.2-blue) ![Netlify Badge](https://img.shields.io/badge/Netlify-Deployed-green)
 
