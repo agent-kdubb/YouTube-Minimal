@@ -34,7 +34,7 @@ A distraction-free video platform leveraging the YouTube API for seamless browsi
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## Repository Links
 
